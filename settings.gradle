@@ -1,0 +1,2 @@
+rootProject.name='Df_User_Dashboard'
+include ':app'
